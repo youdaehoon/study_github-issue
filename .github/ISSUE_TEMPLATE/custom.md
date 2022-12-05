@@ -11,16 +11,18 @@ assignees: ''
 
 ISSUE 종류를 선택하세요
 
-- [ ] FeaTure
-- [ ] Fix
-- [ ] Chore
-- [ ] Create
-- [ ] Delete
-- [ ] Modify
+- [ ] feat
+- [ ] fix
+- [ ] chore
+- [ ] create
+- [ ] modify
+- [ ] refactor
+- [ ] style
+- [ ] docs
 
 ## 내용  
 
-- 내용 명: 내용을 작성해주세요 샾을 이용해주세요
+- 내용 명: 내용을 작성해주세요 
 
 ##  체크리스트
 
