@@ -1,0 +1,15 @@
+.container-category{
+    width: 637px;
+    height: 640px;
+    gap: 8px;
+}
+.block-category{
+    width: 207px;
+    height: 208px;
+    background: rgba(1, 124, 201, 0.41);
+    font-size: 45px;
+    line-height: 45px;
+    letter-spacing: -0.02em;
+    color:#FFFFFF
+    
+}
